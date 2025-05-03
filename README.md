@@ -11,7 +11,7 @@ I’m a 22-year-old student at Aswan University (3rd year) passionate about buil
 ## Goals  
 - Achieve **Specialist** rank on Codeforces → Qualify for **ICPC**  
 - Build **TypeToCode** (Website to learn typing by code)  
-- Develop high-traffic APIs with .NET and MongoDB  
+- Develop high-traffic APIs with .NET and MongoDB 
 
 ## Technical Skills  
 **Core**: C#, C++ (Competitive Programming)  
