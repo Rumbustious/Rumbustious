@@ -9,6 +9,11 @@ I'm a 22-year-old Computer & Systems Engineering student at Aswan University (3r
 - Deepening my expertise in **C# and .NET ecosystem**  
 - Completing the **IBM SkillsBuild Cybersecurity Certificate**  
 
+## Goals  
+- Achieve Specialist rank on Codeforces  
+- Qualify for ICPC 
+- Build TypeToCode Website.
+
 ## Technical Skills
 **Programming Languages**  
 - C#, C++, Python, JavaScript, R  
@@ -22,10 +27,5 @@ I'm a 22-year-old Computer & Systems Engineering student at Aswan University (3r
 **Tools & Platforms**  
 - Git, Visual Studio, Postman, Docker (Learning)  
 
-
-## Goals  
-- Achieve Specialist rank on Codeforces  
-- Qualify for ICPC 
-- Build scalable backend systems for web applications
   
 📫 Reach me: [https://www.linkedin.com/in/ahmed-shazly-kenawy/](#) | [ahmed.shazly.kenawy@gmail.com](#) 
