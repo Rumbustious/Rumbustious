@@ -1,18 +1,27 @@
 # Ahmed Shazly  
-*Computer & Systems Engineering Student | Backend Developer*  
+*Computer & Systems Engineering Student | Aspiring .NET Backend Developer*  
 
-I'm a third-year Computer & Systems Engineering student at Aswan University, passionate about backend development with **ASP.NET** and **C#**. I focus on building efficient, scalable systems while continuously expanding my knowledge in software engineering and cybersecurity.  
+I'm a 22-year-old Computer & Systems Engineering student at Aswan University (3rd year). I specialize in backend development with .NET technologies and have experience building web applications. Passionate about creating efficient systems and continuously expanding my technical skills.
+
 
 ## Currently  
 - Preparing for the **ECPC Competition** (competitive programming)  
 - Deepening my expertise in **C# and .NET ecosystem**  
 - Completing the **IBM SkillsBuild Cybersecurity Certificate**  
 
-## Skills & Interests  
-- **Backend Development**: ASP.NET Core, REST APIs, Entity Framework  
-- **Databases** []: SQL Server, MongoDB
-- **Tools**: Git, Visual Studio, Docker (learning)  
-- **Security Fundamentals**  
+## Technical Skills
+**Programming Languages**  
+- C#, C++, Python, JavaScript, R  
+
+**Web Development**  
+- ASP.NET Core, React, REST APIs  
+
+**Databases**  
+- SQL Server, MongoDB  
+
+**Tools & Platforms**  
+- Git, Visual Studio, Postman, Docker (Learning)  
+
 
 ## Goals  
 - Achieve Specialist rank on Codeforces  
