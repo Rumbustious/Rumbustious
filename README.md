@@ -15,8 +15,8 @@ I'm a third-year Computer & Systems Engineering student at Aswan University, pas
 - **Security Fundamentals**  
 
 ## Goals  
-- Contribute to meaningful open-source projects  
-- Improve problem-solving skills through competitions  
-- Explore cloud technologies (Azure/AWS)  
-
+- Achieve Specialist rank on Codeforces  
+- Qualify for ICPC 
+- Build scalable backend systems for web applications
+  
 📫 Reach me: [https://www.linkedin.com/in/ahmed-shazly-kenawy/](#) | [ahmed.shazly.kenawy@gmail.com](#) 
