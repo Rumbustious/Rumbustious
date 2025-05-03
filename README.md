@@ -1,31 +1,23 @@
 # Ahmed Shazly  
 *Computer & Systems Engineering Student | Aspiring .NET Backend Developer*  
 
-I'm a 22-year-old Computer & Systems Engineering student at Aswan University (3rd year). I specialize in backend development with .NET technologies and have experience building web applications. Passionate about creating efficient systems and continuously expanding my technical skills.
-
+I’m a 22-year-old student at Aswan University (3rd year) passionate about building scalable backend systems and solving complex problems through code.  
 
 ## Currently  
-- Preparing for the **ECPC Competition** (competitive programming)  
-- Deepening my expertise in **C# and .NET ecosystem**  
-- Completing the **IBM SkillsBuild Cybersecurity Certificate**  
+- Mastering **C# and .NET 8** for backend systems  
+- Preparing for **ECPC Competition** (competitive programming)  
+- Learning cybersecurity fundamentals for secure development  
 
 ## Goals  
-- Achieve Specialist rank on Codeforces  
-- Qualify for ICPC 
-- Build TypeToCode Website.
+- Achieve **Specialist** rank on Codeforces → Qualify for **ICPC**  
+- Build **TypeToCode** (Website to learn typing by code)  
+- Develop high-traffic APIs with .NET and MongoDB  
 
-## Technical Skills
-**Programming Languages**  
-- C#, C++, Python, JavaScript, R  
+## Technical Skills  
+**Core**: C#, C++ (Competitive Programming)  
+**Web**: ASP.NET Core, REST APIs, Entity Framework  
+**Databases**: SQL Server, MongoDB  
+**Tools**: Git, Docker, Postman  
 
-**Web Development**  
-- ASP.NET Core, React, REST APIs  
-
-**Databases**  
-- SQL Server, MongoDB  
-
-**Tools & Platforms**  
-- Git, Visual Studio, Postman, Docker (Learning)  
-
-  
-📫 Reach me: [https://www.linkedin.com/in/ahmed-shazly-kenawy/](#) | [ahmed.shazly.kenawy@gmail.com](#) 
+📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/ahmed-shazly-kenawy/) | [Email](mailto:ahmed.shazly.kenawy@gmail.com)  
+*Open to collaborations on .NET projects!*  
