@@ -6,7 +6,6 @@ I’m a 22-year-old student at Aswan University (3rd year) passionate about buil
 ## Currently  
 - Mastering **C# and .NET 8** for backend systems  
 - Preparing for **ECPC Competition** (competitive programming)  
-- Learning cybersecurity fundamentals for secure development  
 
 ## Goals  
 - Achieve **Specialist** rank on Codeforces → Qualify for **ICPC**  
