@@ -13,10 +13,10 @@ I’m a 22-year-old student at Aswan University (4th year) passionate about buil
 - Build **TypeToCode** (Website to learn typing by code)  [repo](https://github.com/Rumbustious/TypeToCode).
 
 ## Technical Skills  
-**Core**:  C++, C#, Python, Javascript. 
-**Web**: ASP.NET Core, ReactJS/NextJs , NodeJs.
-**Databases**: SQL Server, MongoDB  
-**Tools**: Git, Docker, Postman , VS & VS Code.  
+- **Core**:  C++, C#, Python, Javascript. 
+- **Web**: ASP.NET Core, ReactJS/NextJs , NodeJs.
+- **Databases**: SQL Server, MongoDB  
+- **Tools**: Git, Docker, Postman , VS & VS Code.  
 
 📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/ahmed-shazly-kenawy/) | [Email](mailto:ahmed.shazly.kenawy@gmail.com)  
 *Open to collaborations on .NET projects!*  
