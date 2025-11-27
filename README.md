@@ -10,11 +10,11 @@ I’m a 22-year-old student at Aswan University (4th year). I enjoy building sof
 
 ## What I want to achieve soon?  
 - Achieve **Pupil** rank on Codeforces. 
-- Build a Todo app for my personal use. [repo] ().
+- Build a Todo app for my personal use. [repo](https://github.com/Rumbustious/RumbTodo).
 
 ## My skills:
-- **Programming Languges**:  C++, C#, Python, Javascript. 
-- **Web**: ASP.NET Core, ReactJS/NextJs , NodeJs.
+- **Programming Languges**:  C++, C#, Python, TypeScript/JavaScript. 
+- **Web**: ASP.NET Core, ReactJS/NextJs , NodeJs, AngularJs.
 - **Databases**: SQL Server, MongoDB  
 - **Tools**: Git, Docker, Postman , VS & VS Code.  
 
