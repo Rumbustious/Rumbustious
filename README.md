@@ -1,22 +1,22 @@
 # Ahmed Shazly  
-*Computer & Systems Engineering Student | Aspiring .NET Full-Stack Developer*  
+*Computer & Systems Engineering Student | Software Engineer | .NET fullstack developer*  
 
-I’m a 22-year-old student at Aswan University (4th year) passionate about building scalable backend systems and solving complex problems through code.  
+I’m a 22-year-old student at Aswan University (4th year). I enjoy building software to solve problems I face or tools I need for myself.
 
-## Currently  
-- Mastering **C# and .NET 8** for backend systems.
+## What I currently do?  
+- Mastering **C# and .NET 10** for backend systems.
 - Practice competitive programming.
-- Preparing for **Graduation Project**.
+- Working on my **Graduation Project**.
 
-## Goals  
-- Achieve **Pupil** rank on Codeforces.  
-- Build **TypeToCode** (Website to learn typing by code)  [repo](https://github.com/Rumbustious/TypeToCode).
+## What I want to achieve soon?  
+- Achieve **Pupil** rank on Codeforces. 
+- Build a Todo app for my personal use. [repo] ().
 
-## Technical Skills  
-- **Core**:  C++, C#, Python, Javascript. 
+## My skills:
+- **Programming Languges**:  C++, C#, Python, Javascript. 
 - **Web**: ASP.NET Core, ReactJS/NextJs , NodeJs.
 - **Databases**: SQL Server, MongoDB  
 - **Tools**: Git, Docker, Postman , VS & VS Code.  
 
-📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/ahmed-shazly-kenawy/) | [Email](mailto:ahmed.shazly.kenawy@gmail.com)  
-*Open to collaborations on .NET projects!*  
+📫 **Contact me**: [LinkedIn](https://www.linkedin.com/in/ahmed-shazly-kenawy/) | [Email](mailto:ahmed.shazly.kenawy@gmail.com)  
+
