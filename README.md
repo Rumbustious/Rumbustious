@@ -9,8 +9,9 @@ I’m a 22-year-old student at Aswan University (4th year). I enjoy building sof
 - Working on my **Graduation Project**.
 
 ## What I want to achieve soon?  
-- Achieve **Pupil** rank on Codeforces. 
+- Achieve **Specialist** rank on Codeforces. 
 - Build a Todo app for my personal use. [repo](https://github.com/Rumbustious/RumbTodo).
+- Build TypeToCode software.
 
 ## My skills:
 - **Programming Languges**:  C++, C#, Python, TypeScript/JavaScript. 
