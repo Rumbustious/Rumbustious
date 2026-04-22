@@ -1,7 +1,7 @@
 # Ahmed Shazly  
 *Computer & Systems Engineering Student | Software Engineer | .NET fullstack developer*  
 
-I’m a 22-year-old student at Aswan University (4th year). I enjoy building software to solve problems I face or tools I need for myself.
+I’m a 23-year-old student at Aswan University (4th year). I enjoy building software to solve problems I face or tools I need for myself.
 
 ## What I currently do?  
 - Mastering **C# and .NET 10** for backend systems.
